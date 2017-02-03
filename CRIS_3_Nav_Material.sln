@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRIS_3_Nav_Material", "CRIS_3_Nav_Material\CRIS_3_Nav_Material.csproj", "{6F2CEBD1-6751-4558-AB7E-BE949E4B4D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRIS_3_Nav_Material.Tests", "CRIS_3_Nav_Material.Tests\CRIS_3_Nav_Material.Tests.csproj", "{93372FD1-0B9E-49CB-BC09-00680DF72E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2CEBD1-6751-4558-AB7E-BE949E4B4D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2CEBD1-6751-4558-AB7E-BE949E4B4D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2CEBD1-6751-4558-AB7E-BE949E4B4D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2CEBD1-6751-4558-AB7E-BE949E4B4D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93372FD1-0B9E-49CB-BC09-00680DF72E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93372FD1-0B9E-49CB-BC09-00680DF72E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93372FD1-0B9E-49CB-BC09-00680DF72E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93372FD1-0B9E-49CB-BC09-00680DF72E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
